@@ -11,7 +11,6 @@ dist/
 __pycache__/
 
 # build/
-.vscode
 .vs
 node_modules
 *debug.log
@@ -20,3 +19,4 @@ hrms/public/frontend
 hrms/www/hrms.html
 hrms/public/roster
 hrms/www/roster.html
+config.bat
